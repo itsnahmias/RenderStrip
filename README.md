@@ -1,2 +1,2 @@
 # RenderStrip
-An after effects scripts that you can enjoy of
+After effects scripts that will help your workflow
